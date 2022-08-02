@@ -9,7 +9,10 @@ array
 
 Array de Entrada [1, 2, 4,  8]
 
-Valor Mostrado 1
+Valor Mostrado 1 
+
 Valor Mostrado 1 + 2
+
 Valor Mostrado 3 + 4
+
 Valor Mostrado 7 + 8
