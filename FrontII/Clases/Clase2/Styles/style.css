@@ -1,0 +1,17 @@
+
+.negrita{
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.color{
+    color: blue;
+}
+
+.white{
+    color: white;
+}
+
