@@ -1,0 +1,8 @@
+#button {
+  font-size: large;
+  text-align: center;
+  color: coral;
+  padding: 2em;
+  display: flex;
+  background-color: white;
+}
