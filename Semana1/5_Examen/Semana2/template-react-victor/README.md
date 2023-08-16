@@ -1,3 +1,26 @@
+# FrontEnd - APP 
+
+
+
+Victor Alfonso Martinez Solarte 
+
+Branch : devs
+
+Source: template-react-victor 
+
+
+
+## Details:
+     - npm create-react-app template-react-victor
+     - npm start
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
