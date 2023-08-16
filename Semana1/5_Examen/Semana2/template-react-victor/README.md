@@ -16,7 +16,9 @@ Source: template-react-victor
 
 
 
-
+<img src="./img/image1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 
