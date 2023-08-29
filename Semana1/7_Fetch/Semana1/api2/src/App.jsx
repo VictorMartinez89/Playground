@@ -34,7 +34,7 @@ function App() {
         <div>
         
         <h1>{ordenar} </h1>
-       <button onClick={handleHelp}>Enviar</button>
+       <button onClick={handleHelp}>Submit</button>
         </div>
       )}
       
